@@ -1,3 +1,3 @@
 # apnacollege-demo
 new repo
-Author - Madhav Sukhani
+Author - Madhav Sukhani(Web Developer)
